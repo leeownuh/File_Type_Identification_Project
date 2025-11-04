@@ -52,5 +52,5 @@ It’s ideal for cybersecurity, digital forensics, and data classification purpo
 ## ⚙️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/File_Type_Identification_Project.git
+   git clone https://github.com/leeownuh/File_Type_Identification_Project.git
    cd File_Type_Identification_Project
